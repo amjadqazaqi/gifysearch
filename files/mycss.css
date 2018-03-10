@@ -1,0 +1,34 @@
+
+button,
+div,
+form,
+input {
+  margin: 10px;
+}
+
+.movie {
+  background-color: #4CAF50;
+  color: white;
+  cursor: pointer;
+
+}
+
+.myimage {
+  height: 250px;
+  width: 250px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: center;
+  cursor: pointer;
+}
+p{
+  display:inline;
+}
+#mydiv a{
+
+display:inline-block;
+
+
+}
